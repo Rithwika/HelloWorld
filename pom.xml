@@ -20,11 +20,6 @@
     <jdk.version>1.8</jdk.version>
 
     <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
-   
-    <sonar.projectKey>Rithwika_HelloWorld</sonar.projectKey>
-    <sonar.organization>rithwika</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  
   </properties>
 
   <build>
